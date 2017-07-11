@@ -6,7 +6,7 @@
 * [Historia](historia.md)
 * [¿Cómo funciona?](como-funciona.md)
   * [Algoritmo proof of work](como-funciona/algoritmo-proof-of-work.md)
-  * [Otros algoritmos de minado](como-funciona/otros-algoritmos-de-minado.md)
+  * [Otros algoritmos de minad](como-funciona/otros-algoritmos-de-minado.md)o
   * [Cuasi-anonimidad \(pseudonimidad\)](como-funciona/cuasi-anonimidad-pseudonimidad.md)
 * [¿Cómo se usa?](como-se-usa.md)
   * [¿Cómo comprar y vender bitcoins?](como-se-usa/como-comprar-y-vender-bitcoins.md)
@@ -19,7 +19,7 @@
   * [Actividades ilícitas](como-se-usa/actividades-ilicitas.md)
 * [Nevos paradigmas](nevos-paradigmas.md)
   * [Consenso distribuido exento de confianza \(trustless distribuited consensus\)](consenso-distribuido-exento-de-confianza-trustless-distribuited-consensus.md)
-    * [El sistema financiero es una red de confianza. Esquema circular de A presta a B, B presta a C, C presta a D, D presta a A. Se podría simplemente cancelar, pero todos están en bancarrota.](consenso-distribuido-exento-de-confianza-trustless-distribuited-consensus/el-sistema-financiero-es-una-red-de-confianza-esquema-circular-de-a-presta-a-b-b-presta-a-c-c-presta-a-d-d-presta-a-a-se-podria-simplemente-cancelar-pero-todos-estan-en-bancarrota.md)
+    El sistema financiero es una red de confianza. Esquema circular de A presta a B, B presta a C, C presta a D, D presta a A. Se podría simplemente cancelar, pero todos están en bancarrota.
   * [Escasez digital](escasez-digital.md)
   * [Eliminación de intermediarios](eliminacion-de-intermediarios.md)
   * [Contratos inteligentes](contratos-inteligentes.md)
@@ -43,4 +43,6 @@
   * [Democracy.earth](democracyearth.md)
   * [Uber sin uber](uber-sin-uber.md)
   * [SingularDTV](singulardtv.md)
+
+
 
