@@ -7,42 +7,40 @@
 * [¿Cómo funciona?](como-funciona.md)
   * [Algoritmo proof of work](como-funciona/algoritmo-proof-of-work.md)
   * [Otros algoritmos de minado](como-funciona/otros-algoritmos-de-minado.md)
-  * Cuasi-anonimidad \(pseudonimidad\)
+  * [Cuasi-anonimidad \(pseudonimidad\)](como-funciona/cuasi-anonimidad-pseudonimidad.md)
 * [¿Cómo se usa?](como-se-usa.md)
   * [¿Cómo comprar y vender bitcoins?](como-se-usa/como-comprar-y-vender-bitcoins.md)
-  * Ejecutar e inspeccionar transacciones
-  * Tipos de Carteras
-  * Seguridad
-  * Transmisión de valor
-  * Remesas
-  * Fondeo de causas \(Wikileaks\)
-  * Actividades ilícitas
-* Nevos paradigmas
-  * Consenso distribuido exento de confianza \(trustless distribuited consensus\)
-    * El sistema financiero es una red de confianza. Esquema circular de A presta a B, B presta a C, C presta a D, D presta a A. Se podría simplemente cancelar, pero todos están en bancarrota.
-  * Escasez digital
-  * Eliminación de intermediarios
-  * Contratos inteligentes
-  * ICOs
-* Plataformas abiertas, open source, descentralizadas, sin permiso \(permissionless\), sin confianza \(trustless\)
-  * El internet como caso de estudio
-    * Las blockchains como espacio público o un bien común \(commons\)
-    * El internet, gracias a Bitcoin, se eleva al grado de soberanía.
-* Ethereum y plataformas de contratos inteligentes
-  * La computadora del mundo
-* Criptoeconomía
-  * Modelos económicos de plataformas blockchain
-  * Tokens y tokenización
-  * Exchanges
-  * Inversion en VC
-  * Inversión en ICOs
-    * Emprendimiento
-  * Problemas de escalabilidad
-* Algunos ejemplos de proyectos blockchain relevantes
-  * Prescrypto
-  * Democracy.earth
-  * Uber sin uber
-  * SingularDTV
-
-
+  * [Ejecutar e inspeccionar transacciones](como-se-usa/ejecutar-e-inspeccionar-transacciones.md)
+  * [Tipos de Carteras](como-se-usa/tipos-de-carteras.md)
+  * [Seguridad](como-se-usa/seguridad.md)
+  * [Transmisión de valor](como-se-usa/transmision-de-valor.md)
+  * [Remesas](como-se-usa/remesas.md)
+  * [Fondeo de causas \(Wikileaks\)](como-se-usa/fondeo-de-causas-wikileaks.md)
+  * [Actividades ilícitas](como-se-usa/actividades-ilicitas.md)
+* [Nevos paradigmas](nevos-paradigmas.md)
+  * [Consenso distribuido exento de confianza \(trustless distribuited consensus\)](consenso-distribuido-exento-de-confianza-trustless-distribuited-consensus.md)
+    * [El sistema financiero es una red de confianza. Esquema circular de A presta a B, B presta a C, C presta a D, D presta a A. Se podría simplemente cancelar, pero todos están en bancarrota.](consenso-distribuido-exento-de-confianza-trustless-distribuited-consensus/el-sistema-financiero-es-una-red-de-confianza-esquema-circular-de-a-presta-a-b-b-presta-a-c-c-presta-a-d-d-presta-a-a-se-podria-simplemente-cancelar-pero-todos-estan-en-bancarrota.md)
+  * [Escasez digital](escasez-digital.md)
+  * [Eliminación de intermediarios](eliminacion-de-intermediarios.md)
+  * [Contratos inteligentes](contratos-inteligentes.md)
+  * [ICOs](icos.md)
+* [Plataformas abiertas, open source, descentralizadas, sin permiso \(permissionless\), sin confianza \(trustless\)](plataformas-abiertas-open-source-descentralizadas-sin-permiso-permissionless-sin-confianza-trustless.md)
+  * [El internet como caso de estudio](el-internet-como-caso-de-estudio.md)
+    * [Las blockchains como espacio público o un bien común \(commons\)](el-internet-como-caso-de-estudio/las-blockchains-como-espacio-publico-o-un-bien-comun-commons.md)
+    * [El internet, gracias a Bitcoin, se eleva al grado de soberanía.](el-internet-como-caso-de-estudio/el-internet-gracias-a-bitcoin-se-eleva-al-grado-de-soberania.md)
+* [Ethereum y plataformas de contratos inteligentes](ethereum-y-plataformas-de-contratos-inteligentes.md)
+  * [La computadora del mundo](la-computadora-del-mundo.md)
+* [Criptoeconomía](criptoeconomia.md)
+  * [Modelos económicos de plataformas blockchain](modelos-economicos-de-plataformas-blockchain.md)
+  * [Tokens y tokenización](tokens-y-tokenizacion.md)
+  * [Exchanges](exchanges.md)
+  * [Inversion en VC](inversion-en-vc.md)
+  * [Inversión en ICOs](inversion-en-icos.md)
+    * [Emprendimiento](emprendimiento.md)
+  * [Problemas de escalabilidad](problemas-de-escalabilidad.md)
+* [Algunos ejemplos de proyectos blockchain relevantes](algunos-ejemplos-de-proyectos-blockchain-relevantes.md)
+  * [Prescrypto](prescrypto.md)
+  * [Democracy.earth](democracyearth.md)
+  * [Uber sin uber](uber-sin-uber.md)
+  * [SingularDTV](singulardtv.md)
 
