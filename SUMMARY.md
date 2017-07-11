@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* Introduction
 * [¿Qué es el dinero?](que-es-el-dinero.md)
 * [¿Qué es Bitcoin?](que-es-bitcoin.md)
 * [Historia](historia.md)
