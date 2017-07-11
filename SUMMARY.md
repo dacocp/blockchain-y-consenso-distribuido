@@ -1,18 +1,19 @@
 # Summary
 
+* [Introduction](README.md)
 * Introduction
-* ¿Qué es el dinero?
-* ¿Qué es Bitcoin?
-* Historia
+* [¿Qué es el dinero?](que-es-el-dinero.md)
+* [¿Qué es Bitcoin?](que-es-bitcoin.md)
+* [Historia](historia.md)
 * [¿Cómo funciona?](como-funciona.md)
   * [Algoritmo proof of work](como-funciona/algoritmo-proof-of-work.md)
   * [Otros algoritmos de minado](como-funciona/otros-algoritmos-de-minado.md)
   * Cuasi-anonimidad \(pseudonimidad\)
-* ¿Cómo se usa?
-  * ¿Cómo comprar y vender bitcoins?
-    * Ejecutar e inspeccionar transacciones
-    * Tipos de Carteras
-    * Seguridad
+* [¿Cómo se usa?](como-se-usa.md)
+  * [¿Cómo comprar y vender bitcoins?](como-se-usa/como-comprar-y-vender-bitcoins.md)
+  * Ejecutar e inspeccionar transacciones
+  * Tipos de Carteras
+  * Seguridad
   * Transmisión de valor
   * Remesas
   * Fondeo de causas \(Wikileaks\)
