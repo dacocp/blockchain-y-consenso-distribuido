@@ -26,7 +26,8 @@
 
 * Nevos paradigmas
 	* Consenso distribuido exento de confianza (_trustless distribuited consensus_)
-		* The financial system is a web of trust. Esquema circular de A presta a B, B presta a C, C presta a D, D presta a A. Se podría simplemente cancelar, pero todos están en bancarrota.
+		* El sistema financiero es una red de confianza. Esquema circular de A presta a B, B presta a C, C presta a D, D presta a A. Se podría simplemente cancelar, pero todos están en bancarrota.
+
 	* Escasez digital
 
 		Actualmente, el software que utilizan los bancos puede mover dinero entre diferentes cuentas, pero estas cuentas tienen que estar dentro del propio banco y no hay compatibilidad o interoperabilidad entre los sistemas de bancos diferentes. Es por esto que entre bancos no pueden transmitir dinero entre ellos sin complejos mecanismos centralizados (y que tras bambalinas los procesos todavía involucran el uso de papelería), como SWIFT o SPEI, que toman varios días para que se salden las cuentas de una transferencia entre los bancos involucrados. 
