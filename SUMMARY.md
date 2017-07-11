@@ -28,6 +28,7 @@
 	* Consenso distribuido exento de confianza (_trustless distribuited consensus_)
 		* The financial system is a web of trust. Esquema circular de A presta a B, B presta a C, C presta a D, D presta a A. Se podría simplemente cancelar, pero todos están en bancarrota.
 	* Escasez digital
+
 		Actualmente, el software que utilizan los bancos puede mover dinero entre diferentes cuentas, pero estas cuentas tienen que estar dentro del propio banco y no hay compatibilidad o interoperabilidad entre los sistemas de bancos diferentes. Es por esto que entre bancos no pueden transmitir dinero entre ellos sin complejos mecanismos centralizados (y que tras bambalinas los procesos todavía involucran el uso de papelería), como SWIFT o SPEI, que toman varios días para que se salden las cuentas de una transferencia entre los bancos involucrados. 
 
 		En términos legales es el banco quien es dueño de este dinero, y los sistemas de software que utilizan los bancos sólo lo pueden mover dentro de los registros contables del mismo, sin que legalmente cambie de propietario. De acuerdo a la ley actual, los ahorradores son acreedores del banco, el banco no es un custodio de fondos ajenos, sino dueño y deudor de los mismos.
