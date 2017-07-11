@@ -1,8 +1,8 @@
 # Summary
 
-* [First Chapter][1]
+* [\# First Chapter][1]
 
-* ¿Qué es el dinero?
+# * ¿Qué es el dinero?
 
 * ¿Qué es Bitcoin?
 
