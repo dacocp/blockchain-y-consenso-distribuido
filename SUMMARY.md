@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [\[\# First Chapter\]\[1\]](first-chapter1.md)
 * [¿Qué es el dinero?](/que-es-el-dinero.md)
 * [¿Qué es Bitcoin?](/que-es-bitcoin.md)
 * Historia
