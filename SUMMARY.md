@@ -1,12 +1,12 @@
 # Summary
 
-* [Introduction](README.md)
-* ¿[Qué es el dinero?](//que-es-el-dinero.md)
-* [¿Qué es Bitcoin?](/que-es-bitcoin.md)
+* Introduction
+* ¿Qué es el dinero?
+* ¿Qué es Bitcoin?
 * Historia
 * [¿Cómo funciona?](como-funciona.md)
-  * Algoritmo proof of work
-  * Otros algoritmos de minado
+  * [Algoritmo proof of work](como-funciona/algoritmo-proof-of-work.md)
+  * [Otros algoritmos de minado](como-funciona/otros-algoritmos-de-minado.md)
   * Cuasi-anonimidad \(pseudonimidad\)
 * ¿Cómo se usa?
   * ¿Cómo comprar y vender bitcoins?
